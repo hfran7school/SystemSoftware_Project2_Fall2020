@@ -12,7 +12,7 @@ files from Linux.
 
 The following is the documentation I turned in to my professor upon completion of the project:
 
-# Hailey Francis (n01402670) -- Documentation Project 2 
+# Hailey Francis -- Documentation Project 2 
 
 Project 1 actually had an issue with the hash table, but luckily I was able to fix it with no issues for pass 2.
 There was also an issue with the tokenizing of the character constants (case BYTE C''). It tokenizing spaces spaces
