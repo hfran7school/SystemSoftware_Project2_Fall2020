@@ -6,6 +6,8 @@ COP3404: Project2: Passes 1 and 2 -- Generating SIC Object File
 I did not include all 10 test files we were given because I do not own them, however I included one to show
 what my example test object was being generated from.
 
+Project 2 is an extension of Project 1. Much of what was used for Pass 1 is from my Project 1.
+
 I was marked off on this assignment because the extension for the object files is supposed to be ".sic.obj"
 and not just ".obj". However, this is a quick fix and will provide good practice when I learn how to patch
 files from Linux.
